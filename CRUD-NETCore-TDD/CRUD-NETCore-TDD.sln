@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD-NETCore-TDD", "CRUD-NETCore-TDD.csproj", "{4E1A830D-2169-44ED-B6E9-E17C4458AE7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD-NETCore-TDD.Infra", "CRUD-NETCore-TDD.Infra\CRUD-NETCore-TDD.Infra.csproj", "{7E036E53-11A4-4AAB-B836-D28779285304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD-NETCore-TDD.Test", "CRUD-NETCore-TDD.Test\CRUD-NETCore-TDD.Test.csproj", "{CE8324F1-0068-4796-894F-6BBB93204E29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E1A830D-2169-44ED-B6E9-E17C4458AE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1A830D-2169-44ED-B6E9-E17C4458AE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1A830D-2169-44ED-B6E9-E17C4458AE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1A830D-2169-44ED-B6E9-E17C4458AE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E036E53-11A4-4AAB-B836-D28779285304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E036E53-11A4-4AAB-B836-D28779285304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E036E53-11A4-4AAB-B836-D28779285304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E036E53-11A4-4AAB-B836-D28779285304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE8324F1-0068-4796-894F-6BBB93204E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8324F1-0068-4796-894F-6BBB93204E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8324F1-0068-4796-894F-6BBB93204E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8324F1-0068-4796-894F-6BBB93204E29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
